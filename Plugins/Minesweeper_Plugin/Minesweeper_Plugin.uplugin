@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Minesweeper_Plugin",
+	"Description": "Adds toolbar button that opens a window with Minesweeper.",
+	"Category": "Other",
+	"CreatedBy": "Arthur Timpe",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Minesweeper_Plugin",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
